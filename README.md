@@ -1,2 +1,2 @@
 # Utility-Scripts
-Utility Scripts
+General purpose utility scripts.
